@@ -9,7 +9,7 @@
     "pools": [
         {
             "agent": "",
-            "algorithm": "wrkzcoin",
+            "algorithm": "turtlecoin",
             "host": "rx-us.unmineable.com",
             "niceHash": true,
             "password": "x",
@@ -17,7 +17,7 @@
             "priority": 0,
             "rigID": "xavix",
             "ssl": false,
-            "username": "TRX:TMeenAiZXRvYrHFWWsPDxFg6hTSzDomU4d"
+            "username": "TRTLv2rjeWg322nvJAdy8EfYenZJNPTLEj2mmsEiaymuFY8D6WJT3u6QmDy5TAF6AZWBDugBvNjkAVbfSuu2dwppApL9ysAmKCx"
         }
         
     ]
